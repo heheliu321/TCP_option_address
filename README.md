@@ -35,6 +35,6 @@ sudo insmod toa.ko
 测试toa成功启动
 
 ```
-[root@mmc-alpha-arm-0021 yum.repos.d]# lsmod | grep toa
+# lsmod | grep toa
 toa                   282624  0
 ```
