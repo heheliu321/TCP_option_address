@@ -29,6 +29,12 @@ Load the kernel module:
 sudo insmod toa.ko
 ```
 
-## Distribution license
+### 采坑汇总：
 
-TOA is distributed under the terms of the GNU General Public License v2.0. The full terms and conditions of this license are detailed in the LICENSE file.
+1）虚拟机没有下载欧拉操作系统源码
+
+![img](file:///C:/Users/n00444323/AppData/Roaming/eSpace_Desktop/UserData/n00444323/imagefiles/CC69B66F-9EC1-491E-8967-CBA44FD32CF3.png)
+
+yum install kernel-devel下载解决，后来遇到另一个问题，重启操作解决，
+
+![1584432436447](C:\Users\N00444~1\AppData\Local\Temp\1584432436447.png)
