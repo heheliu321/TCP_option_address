@@ -1,11 +1,4 @@
 #!/bin/bash
-#####################################################################
-# toa install
-# date:2019-10-08
-# Copyright 2008-2013 Support Engineers.
-# All rights reserved.
-# by shenglifeng
-#####################################################################
 
 log_file="/tmp/toa_install.log"
 
