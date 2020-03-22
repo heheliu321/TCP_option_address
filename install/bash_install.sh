@@ -1,6 +1,6 @@
 #!/bin/bash
-password=cnp200@HW123
 remote_ecs_ip=${1}
+password=${2}
 remote_db_ip=${db_ip}
 remote_path=/opt
 
