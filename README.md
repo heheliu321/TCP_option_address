@@ -62,3 +62,5 @@ bash -x k8s_bash_install_toa.sh cnp200@HW123
 kubectl -n usg get node | grep -v NAME |awk '{print $1}' | xargs -n 1 -I {} bash -x bash_install.sh {} cnp200@HW123
 ```
 
+博客链接
+https://blog.csdn.net/nmjhehe/article/details/107645924
